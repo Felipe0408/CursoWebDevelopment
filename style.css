@@ -1,1 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1{
+    color:rgb(14, 167, 116);
+    text-align: center;
+    font-family: 'Sixtyfour', sans-serif;
+}
+
+h2 {
+    color: rgb(19, 176, 176);
+    font-family: 'Workbench', sans-serif;
+}
+
+p {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
 
